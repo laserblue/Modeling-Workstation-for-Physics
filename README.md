@@ -1,15 +1,69 @@
-# Modeling-Workstation-for-Physics
-An integrated modeling workstation for physics
+# Related Software
 
-The interface shall be along the lines stated by David Hestenes in:
+StemC Studio https://www.stemcstudio.com/
+Geogebra https://www.geogebra.org/?lang=en
+Einstein Toolkit https://einsteintoolkit.org/
 
-Hestenes, D. (1995). Modeling Software for Learning and Doing Physics. In: Bernardini, C., Tarsitani, C., Vicentini, M. (eds) Thinking Physics for Teaching. Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-1921-8_4
+Geant4 https://geant4.web.cern.ch/
+ROOT https://root.cern/
+https://atlas.cern/tags/simulation
 
-https://link.springer.com/chapter/10.1007/978-1-4615-1921-8_4
 
-MODELING SOFTWARE for learning and doing physics by DAVID HESTENES
-https://worrydream.com/refs/Hestenes_1995_-_Modeling_Software_for_learning_and_doing_physics.pdf
+CoCalc https://cocalc.com/
 
-https://scholar.archive.org/work/3gmdxv4h2zbkhbkd5d33sujzbi
+Maple https://www.maplesoft.com/products/maple/features/physics.aspx
+    https://www.maplesoft.com/solutions/applied_research/solutions/physics.aspx
+    
+Mathematica https://www.wolfram.com/mathematica/
+
+https://bivector.net/index.html
+      https://bivector.net/lib.html
+      https://bivector.net/tools.html?p=3&q=0&r=1
+
+
+## Virtual Reality and simulations (2d,3d)
+
+Labster 3d virtual laboratories
+https://www.labster.com/explore/physics-lab-online
+
+https://praxilabs.com/en/virtual-physics-lab
+
+universe sandbox https://universesandbox.com/
+
+
+Phet Interactive Simulations https://phet.colorado.edu/
+    https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html
+    https://virtuallabs.merlot.org/vl_physics.html
+    https://virtuallabs.merlot.org/vl_physics.html#phet
+    
+AMRITA Physical Sciences: https://vlab.amrita.edu/index.php?sub=1
+       Mechanical Engineering https://vlab.amrita.edu/index.php?sub=77
+       
+http://vplab.ndo.co.uk/
+
+Wolfram
+https://www.wolframalpha.com/examples/science-and-technology/physics
+
+
+
+VPython
+https://journals.le.ac.uk/ojs1/index.php/new-directions/article/viewFile/383/388
+
+Physics https://libguides.twu.ca/oer/labs
+PhET (Physics) - interactive simulations by University of Colorado Boulder
+
+VIrtual Labs by Merlot (Physics)
+
+MyPhysicsLab – Physics Simulation with Java
+
+Virtual Physics Labs – At Central Connecticut State University (CCSU).
+
+Virtual Labs used at Boston University Physics
+
+Flash Animations for Physics - University of Toronto
+
+### old-school video tutorials
+Geometric Algebra
+https://www.youtube.com/watch?v=e5D7Bma9Vhw
 
 
