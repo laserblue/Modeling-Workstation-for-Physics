@@ -1,69 +1,62 @@
-# Related Software
+# Corporate/domain Memory
 
-StemC Studio https://www.stemcstudio.com/
-Geogebra https://www.geogebra.org/?lang=en
-Einstein Toolkit https://einsteintoolkit.org/
+A database of A.I. retrieved, short video clips (max: 5 mins.) of professional physicists and mathematical physicists or mathematicians relating physics profession "war" stories from working daily life. 
 
-Geant4 https://geant4.web.cern.ch/
-ROOT https://root.cern/
-https://atlas.cern/tags/simulation
-
-
-CoCalc https://cocalc.com/
-
-Maple https://www.maplesoft.com/products/maple/features/physics.aspx
-    https://www.maplesoft.com/solutions/applied_research/solutions/physics.aspx
+NOT TO BE BROWSED. 
     
-Mathematica https://www.wolfram.com/mathematica/
+    All video clips relevant to inquiries will be retrieved by an automated A.I. system that knows what is being worked on and what the inquiry is about.
+    Hossenfelder, Unzicker, Wheeler, Dyson, Feynman, Bethe, Teller,
 
-https://bivector.net/index.html
-      https://bivector.net/lib.html
-      https://bivector.net/tools.html?p=3&q=0&r=1
+Synthetic Interviews with famous physicists
+    e.g. Galilei, Newton, Einstein (see Uneeq Digital Einstein: https://www.digitalhumans.com/case-studies/digital-einstein)
 
+See Charles Darwin Synthetic Interview app, Shoah Foundation Dimensions in Testimony interactive holograms 
 
-## Virtual Reality and simulations (2d,3d)
-
-Labster 3d virtual laboratories
-https://www.labster.com/explore/physics-lab-online
-
-https://praxilabs.com/en/virtual-physics-lab
-
-universe sandbox https://universesandbox.com/
+## ASK hypermedia
+Physics ASK hypermedia (see the Virtual International Science and Technology Academy online demonstration http://vista.engines4ed.org/home/index.htm) 
+Physics hyperbooks (See Engines for Education by Roger C. Schank and Chip Cleary https://www.engines4ed.org/hyperbook/)
 
 
-Phet Interactive Simulations https://phet.colorado.edu/
-    https://phet.colorado.edu/en/simulations/filter?subjects=physics&type=html
-    https://virtuallabs.merlot.org/vl_physics.html
-    https://virtuallabs.merlot.org/vl_physics.html#phet
+## Videos
+a database of video interviews with physicists
+e.g. Web of Stories, Career Girls
+
+
+A database of various types of videos used in physics education
+
+
+- Byju's tutorial video with special effects
+- Khan Academy style tutorial video
+- 
+- Tibees https://www.youtube.com/@tibees
+     studying physics and math playlist https://www.youtube.com/playlist?list=PLATpsZGmpkg-v77I0iNmnVqobWkRFlnxU
+     Physics https://www.youtube.com/playlist?list=PLATpsZGmpkg9xyY385VuS7AMufpW5FuwH
+  
+- Physics Girl https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA
+- recorded blackboard lecture
+- NOVA documentaries
+
+- Demonstration videos
+  Julius Sumner Miller, Tatiana Erukhimova, etc.
+ 
+## Books
+a database or updated bookmarks of physics textbooks
+ e.g. https://www.feynmanlectures.caltech.edu/
+
+## Journals,papers
+a database of journals, papers etc.
+
+
+
+
+
+
     
-AMRITA Physical Sciences: https://vlab.amrita.edu/index.php?sub=1
-       Mechanical Engineering https://vlab.amrita.edu/index.php?sub=77
-       
-http://vplab.ndo.co.uk/
-
-Wolfram
-https://www.wolframalpha.com/examples/science-and-technology/physics
 
 
 
-VPython
-https://journals.le.ac.uk/ojs1/index.php/new-directions/article/viewFile/383/388
 
-Physics https://libguides.twu.ca/oer/labs
-PhET (Physics) - interactive simulations by University of Colorado Boulder
 
-VIrtual Labs by Merlot (Physics)
 
-MyPhysicsLab – Physics Simulation with Java
-
-Virtual Physics Labs – At Central Connecticut State University (CCSU).
-
-Virtual Labs used at Boston University Physics
-
-Flash Animations for Physics - University of Toronto
-
-### old-school video tutorials
-Geometric Algebra
-https://www.youtube.com/watch?v=e5D7Bma9Vhw
 
 
