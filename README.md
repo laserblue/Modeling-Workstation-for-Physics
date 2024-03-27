@@ -61,6 +61,15 @@ https://store.steampowered.com/app/491470/PRINCIPIA_Master_of_Science/
 https://play.google.com/store/apps/details?id=jp.tomeapp.PrincipiaMos&hl=en_CA&gl=US&pli=1
 https://apps.apple.com/ca/app/principia-master-of-science/id1229965362
 
+### Brilliant.org
+    https://brilliant.org/courses/physics-everyday/
+    https://brilliant.org/mechanics/?subtopic=quantum-mechanics
+    https://brilliant.org/electricity-and-magnetism/
+    https://brilliant.org/logic/
+    https://brilliant.org/courses/gravitational-physics/
+    https://brilliant.org/courses/sabine/
+
+### Khan Academy Mastery Exercise Software
 
 VPython
 https://journals.le.ac.uk/ojs1/index.php/new-directions/article/viewFile/383/388
@@ -79,8 +88,11 @@ Virtual Labs used at Boston University Physics
 
 Flash Animations for Physics - University of Toronto
 
+
 ### old-school video tutorials
 Geometric Algebra
 https://www.youtube.com/watch?v=e5D7Bma9Vhw
+
+
 
 
