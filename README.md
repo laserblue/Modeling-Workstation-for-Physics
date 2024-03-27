@@ -14,6 +14,9 @@ See Charles Darwin Synthetic Interview app, Shoah Foundation Dimensions in Testi
 
 ## ASK hypermedia
 Physics ASK hypermedia (see the Virtual International Science and Technology Academy online demonstration http://vista.engines4ed.org/home/index.htm) 
+
+ Web Browser with A.I. multi-agent assisted Conversational Reading System (Source: https://www.mccormick.northwestern.edu/computer-science/documents/tech-reports/pre-1999/tech_rep_52.pdf)
+
 Physics hyperbooks (See Engines for Education by Roger C. Schank and Chip Cleary https://www.engines4ed.org/hyperbook/)
 
 
