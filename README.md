@@ -43,3 +43,6 @@ Relativity, time dilation, length contraction, and mass-energy equivalence
 History of physics and general questions that overlap several major topics
 Analytical skills – graphical analysis, measurement, and math skills
 Contemporary physics – astrophysics, superconductivity, and chaos theory
+
+
+Source: https://collegedunia.com/exams/sat/sat-physics#SAT_Subject_Test_Physics_Pattern
