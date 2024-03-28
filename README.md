@@ -39,6 +39,70 @@ https://xanadu.com/zigzag/
 THE TRANSCOPYRIGHT LICENSE (https://xanadu.com/xuTco.html)
 
 ## Videos
+Types of Physics Videos Playlist https://www.youtube.com/playlist?list=PL84b1TR9XxFnvsKGipB1PLC4NZIIliZiL
+
+Types of Physics Videos
+Physics Practitioner/student practitioner
+-  Live two-way 1:1 video conversation with a subject matter expert
+- Live two-way 1:1 video communication with a socratic mentor
+- Live two-way 1:1 video communication with a coach
+- Live two-way 1:1 video communication with a peer mentor
+- Live two-way video communication with peers
+- Live two-way video communication group webinar
+
+- Synthetic Interview with a subject matter expert that is deceased
+- Synthetic Interview with a recorded (print/audio/video) subject matter expert
+
+- a day in the life of a practitioner
+
+- Virtual 3d Physics Lab
+- 360 degree Physics Lab Tour
+- Virtual World
+- Videogame
+
+- Subject domain community group discussion
+- Subject domain community debate
+- Subject domain community member individual viewpoint
+
+Student of Physics
+- interactive video scenario
+- interactive video quiz
+
+- Documentary (biography)
+- Documentary (subject content)
+
+- a day or longer time period in the life of a student, undergraduate, graduate, doctoral or post doctoral fellow
+
+- review of physics software
+
+- Khan Academy tutorial
+- Byju's tutorial with special effects
+
+- talking head exercise walkthrough/solution
+- talking head study advice/tips
+- talking head tutorial (content)
+
+- demonstration
+
+- University blackboard or whiteboard lecture
+
+- Oral presentation (with slides)
+- speech
+
+- Audiobook (Physics related)
+- Audiobook (Popular Science)
+
+- Read aloud a Physics textbook
+- Physics textbook review
+- Comparison or rating of numerous physics-related books or textbooks
+- Discussion about a physics book or textbook
+
+Teaching Physics
+- How to teach physics
+    Modeling Instruction (Physics as Modeling)
+
+- Physics Education Research
+
 a database of video interviews with physicists
 e.g. Web of Stories, Career Girls
 
