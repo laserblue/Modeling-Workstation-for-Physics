@@ -9,7 +9,9 @@ See the American Modeling Teachers Association (AMTA)  https://www.modelinginstr
 
 Don't confuse "Physics as Modeling" or "MODELING Instruction™ " with "Modeling INSTRUCTION". These are two different uses and definitions of the word "modeling". 
 
-Don't confuse the use of the word "conversational" here with "speech recognition" or "conversational search with Alexa or Google Assistant". A conversational reading system simulates a dialogue between the author/video clip and the reader as noted by R.D. Lankes on knowledge creation in The Atlas of New Librarianship  https://direct.mit.edu/books/oa-monograph/3772/The-Atlas-of-New-Librarianship.
+Don't confuse the use of the word "conversational" here with "speech recognition" or "conversational search with Alexa or Google Assistant". A conversational reading system simulates a text-based dialogue/text chat between the author/video clip and the reader using well-indexed and categorized text-based questions.
+
+as noted by R.D. Lankes on knowledge creation in The Atlas of New Librarianship, knowledge is created through conversation.  https://direct.mit.edu/books/oa-monograph/3772/The-Atlas-of-New-Librarianship.
 
 Knowledge is Created through Conversation ---> Conversation Theory (slides 8, 13-15, of 64) https://www.slideserve.com/toki/the-atlas-of-new-librarianship-r-david-lankes
 
@@ -19,7 +21,7 @@ Knowledge is Created through Conversation ---> Conversation Theory (slides 8, 13
 
 
 
-The interface shall be along the lines stated by David Hestenes in:
+The Physics Workstation interface shall be along the lines stated by David Hestenes in:
 
 Hestenes, D. (1995). Modeling Software for Learning and Doing Physics. In: Bernardini, C., Tarsitani, C., Vicentini, M. (eds) Thinking Physics for Teaching. Springer, Boston, MA. https://doi.org/10.1007/978-1-4615-1921-8_4
 
@@ -29,7 +31,9 @@ MODELING SOFTWARE for learning and doing physics by DAVID HESTENES https://worry
 
 https://scholar.archive.org/work/3gmdxv4h2zbkhbkd5d33sujzbi
 
-NOTE: The Workstation search engine will have a GUI rather than a text-based search field as in Google Search or an OpenAI chatGPT text input chat field. Such a HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible. It is similar to using a subject directory tree or an Infranodus knowledge graph. 
+NOTE: The Workstation search engine will have a GUI rather than a text-based search field as in Google Search or an OpenAI chatGPT text input chat field. Such a HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible. It is similar to using a subject directory tree or an Infranodus knowledge graph.
+
+## A.I. assisted Conversational Reading System and search agents
 
 ## SCAPES
 ### Scapes: Participatory reference
@@ -43,5 +47,7 @@ See Scapes, pg. 53 https://watermark.silverchair.com/c010302_9780262300087.pdf?t
 
 The Workstation Search Engine GUI interface will include a SCAPES collaborative search GUI. See slide 20 of 64 https://www.slideserve.com/toki/the-atlas-of-new-librarianship-r-david-lankes
 
+## Graphical/Visual web Browser Search Interface
+    The words "graphical" and "visual" are being used here to make it clear that the search engine user interface is not based on a text input search field or a text chat input field as with use of openAI chatGPT. Yahoos deprecated search directory trees or Google knowledge graphs and Infranodus word network graphs and mind maps that make possible lines of inquiry visible are what is desired for the GUI.
 
 
