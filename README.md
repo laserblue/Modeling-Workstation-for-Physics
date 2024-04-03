@@ -109,7 +109,7 @@ Modern Physics isn't that modern.
 the mathematical formalism is not unified so students will need to abandon it in favour of several redundant formalisms in existence such as tensors, differential forms, spinors etc.
 This is one main thing David Hestenes was tring to work on with "Geometric Algebra" and "Geometric Calculus" as a unified mathematical formalism for physics and mathematics
 
-In terms of use of textbooks in a supervised courseroom of the 1950's and 1960's, Principle of Physics does not have a course checksheet of activities nor a full glossary. 
+In terms of use of textbooks in a supervised courseroom of the 1950's and 1960's, Principles of Physics does not have a course checksheet of activities nor a full glossary. 
 
 #### The Feynman Lectures on Physics https://www.feynmanlectures.caltech.edu/
 
