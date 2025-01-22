@@ -39,9 +39,12 @@ https://xanadu.com/zigzag/
 THE TRANSCOPYRIGHT LICENSE (https://xanadu.com/xuTco.html)
 
 ## Videos
-Types of Physics Videos Playlist https://www.youtube.com/playlist?list=PL84b1TR9XxFnvsKGipB1PLC4NZIIliZiL
+Types of Physics Videos
+
+- Playlist https://www.youtube.com/playlist?list=PL84b1TR9XxFnvsKGipB1PLC4NZIIliZiL
 
 Types of Physics Videos
+
 Physics Practitioner/student practitioner
 -  Live two-way 1:1 video conversation with a subject matter expert
 - Live two-way 1:1 video communication with a socratic mentor
