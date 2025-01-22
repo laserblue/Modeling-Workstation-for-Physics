@@ -1,22 +1,31 @@
 # Modeling-Workstation-for-Physics
 An integrated modeling workstation for physics students and physics professionals including an A.I. assisted Socratic Arts ExTRA™ knowledge management system with synthetic interviews of science professionals and a conversational reading system with a GUI similar to ASK™ hypermedia systems such as ASK™ Michael (https://www.mccormick.northwestern.edu/computer-science/documents/tech-reports/pre-1999/tech_rep_52.pdf ) and the "Engines for Education" hyperbook by Roger C. Schank and Chip Cleary (https://www.engines4ed.org/hyperbook/).
 
-Product Goal
+## Product Goal
   An experiential workstation workspace for students and professionals that is centered around the modeling cycle. 
 
+  - https://eduscrum.org/
+  - https://www.scrum.org/resources/what-product-goal?utm_source=google&utm_medium=adwords&utm_id=psmii&adgroup={groupid}&gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfQtZ-22sNVWL_2sDEq2Lp-gZmBFnpd-86LuB6TOz_OlZ9iVzqEXGvAaAlvKEALw_wcB
+  https://scrumguides.org/scrum-guide.html
+  
 
 
 
 
 
 
-Product Roadmap
+
+## Product Roadmap
+https://www.restack.io/p/ai-application-answer-design-document-template
+https://engstandards.lanl.gov/esm/software/SWDD-template.docx
+https://slite.com/templates/software-design-documentation
 
 
 
 
 
 
+## Skills 
 - strong emphasis on development of skills of working Physicists, Engineers etc. using KidZania-type experiential, goal-based, analog and digital simulations of the working life of professionals with access to live and recorded/simulated trained mentors, coaches, working professionals, retired professionals, other experts, peer mentors and peers.
 - 
 
@@ -59,9 +68,27 @@ The programmers create workable systems that have a steep learning curve or plac
 STEMCstudio might be used as a core of a workspace but the interface needs to be a lot more USER friendly to physics students and drag 'n' drop interactive for both students and professionals. 
 
 
-See Hestenes 1995 paper on MODELING SOFTWARE for learning and doing physics, the interactivity of Brilliant.org, Labster, PhET interactive simulations (https://phet.colorado.edu/), GeoGebra, desmos, CoCalc, Wolfram Alpha, Wolfram Computational Notebooks, Jupyter Notebooks, Google NotebookLM, Mathematica, Maple, Rebound (https://rebound.readthedocs.io/en/latest/), Reboundx (https://reboundx.readthedocs.io/en/latest/) etc. 
+See Hestenes 1995 paper on MODELING SOFTWARE for learning and doing physics,
+- the interactivity of Brilliant.org
+    - (https://brilliant.org/)
+    - (https://brilliant.org/courses/sabine/),
+    - (https://brilliant.org/s/sem/physics/?utm_medium=cpc&utm_source=search&utm_campaign=10160928200_Mixed_Brand_Search_Topics&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfRb45NNxvNduXU78waKj5gpzFH4GnYzIC8xqbm9QApzKIzPeA7iFnYaAhttEALw_wcB&utm_term=100754702606_brilliant%20physics_Brand_Science&utm_content=671027384068_&gad_source=1),
+- Labster(https://www.labster.com/),
+- PhET interactive simulations (https://phet.colorado.edu/),
+- GeoGebra,
+- desmos,
+- CoCalc,
+- Wolfram Alpha,
+- Wolfram Computational Notebooks,
+- Jupyter Notebooks,
+- Google NotebookLM,
+- Mathematica,
+- Maple,
+- Rebound (https://rebound.readthedocs.io/en/latest/),
+- Reboundx (https://reboundx.readthedocs.io/en/latest/) etc.
+- Ganj.js Coffeeshop (https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines)
 
-NOTE: The Workstation search engine will have a GUI rather than a text-based search field as in Google Search or an OpenAI chatGPT text input chat field. Such a HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible for novices. It is similar to using a subject directory tree or an Infranodus knowledge graph.
+NOTE: The Workstation search engine will have a (preferably) language agnostic GUI rather than a text-based search field as in Google Search or with an OpenAI chatGPT text input chat field. A HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible for novices (although categorized, hyperlinked questions would not be language agnostic but automatic translation could be done just-in-time or by use of a preselected language setting). It is similar to using a subject directory tree or an Infranodus knowledge graph. Text-based Generative AI text chat and voice chat could be included as a feature just as full text search of a document and use of Google NotebookLM, Notion and Obsidian can be.
 
 ## A.I. assisted Conversational Reading System and search agents
 
