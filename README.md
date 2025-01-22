@@ -1,15 +1,36 @@
 # Modeling-Workstation-for-Physics
-An integrated modeling workstation for physics including an A.I. assisted conversational reading system with a GUI similar to ASK hypermedia systems such as ASK Michael (https://www.mccormick.northwestern.edu/computer-science/documents/tech-reports/pre-1999/tech_rep_52.pdf ) and the "Engines for Education" hyperbook by Roger C. Schank and Chip Cleary (https://www.engines4ed.org/hyperbook/).
+An integrated modeling workstation for physics students and physics professionals including an A.I. assisted Socratic Arts ExTRA™ knowledge management system with synthetic interviews of science professionals and a conversational reading system with a GUI similar to ASK™ hypermedia systems such as ASK™ Michael (https://www.mccormick.northwestern.edu/computer-science/documents/tech-reports/pre-1999/tech_rep_52.pdf ) and the "Engines for Education" hyperbook by Roger C. Schank and Chip Cleary (https://www.engines4ed.org/hyperbook/).
+
+Product Goal
+  An experiential workstation workspace for students and professionals that is centered around the modeling cycle. 
+
+
+
+
+
+
+
+Product Roadmap
+
+
+
+
+
+
+- strong emphasis on development of skills of working Physicists, Engineers etc. using KidZania-type experiential, goal-based, analog and digital simulations of the working life of professionals with access to live and recorded/simulated trained mentors, coaches, working professionals, retired professionals, other experts, peer mentors and peers.
+- 
+
+- 
 
 [Place image of prototype GUI here]
 
-The word "modeling" is being used here in terms of conceptual and mathematical models NOT 3d models.
+The word "modeling" is being used here in terms of conceptual and mathematical models NOT 3d models or demonstration of an activity.
 
 See the American Modeling Teachers Association (AMTA)  https://www.modelinginstruction.org/
 
 Don't confuse "Physics as Modeling" or "MODELING Instruction™ " with "Modeling INSTRUCTION". These are two different uses and definitions of the word "modeling". 
 
-Don't confuse the use of the word "conversational" here with "speech recognition" or "conversational search with Alexa or Google Assistant". A conversational reading system simulates a text-based dialogue/text chat between the author/video clip and the reader using well-indexed and categorized text-based questions.
+Don't confuse the use of the word "conversational" here with "speech recognition" or "conversational search with Alexa, Siri or Google Assistant". A conversational reading system simulates a text-based dialogue/text chat between the author/video clip and the reader using well-indexed and categorized text-based questions. A voice recognition-based interface is possible but the idea that is trying to be conveyed is that as Carl Sagan and David Lankes have stated, reading a book can be thought of as having a conversation with the author of the book and this conversation creates knowledge within the reader and the community.
 
 as noted by R.D. Lankes on knowledge creation in The Atlas of New Librarianship, knowledge is created through conversation.  https://direct.mit.edu/books/oa-monograph/3772/The-Atlas-of-New-Librarianship.
 
@@ -31,7 +52,16 @@ MODELING SOFTWARE for learning and doing physics by DAVID HESTENES https://worry
 
 https://scholar.archive.org/work/3gmdxv4h2zbkhbkd5d33sujzbi
 
-NOTE: The Workstation search engine will have a GUI rather than a text-based search field as in Google Search or an OpenAI chatGPT text input chat field. Such a HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible. It is similar to using a subject directory tree or an Infranodus knowledge graph.
+STEMCstudio (https://www.stemcstudio.com/) is a good first step but suffers from the computer programmer mentality that Jaques Vallee pointed out in his 1984 book, "Computer Message Systems" regarding software tools that were being created for professional Astronomers in the 1960's and the 1970's. This can be seen as well in CERN's ROOT (https://root.cern/) in 2025 and even R. 
+
+The programmers create workable systems that have a steep learning curve or place a heavy cognitive burden on the user (e.g. vocabulary of Command Line Languages like DOS, Linux or LaTeX, keywords and methods of using different computer languages such as Fortran, C, C++, C#, Python, Julia, Javascript, Java etc., markup languages, software like STEMCstudio, Einstein Toolkit or Reboundx etc.) rather than standardized, very user friendly interfaces for people that are not programmers. See YouTube video of Nora's Guide to the Galaxy: Let's Hang Out and Simulate Planets 🤓.(https://youtu.be/xEAhkUX7nVI?si=dHkWkd3GxNDiPzxV). A professional physicist, astronomer or astrophysicist with an advanced degree should not be burdened with having to remember the details of a specific computer programming language, especially when the details would change to write C or C++ code for a GPU or CUDA or even just to use Javascript and Geometric Algebra in Ganga.js (https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga3d_physics_planets) (https://enkimute.github.io/ganja.js/examples/coffeeshop.html#pga2d_points_and_lines). This also brings up the subject of the plethora of mathematical formalisms in use in Physics, Mathematics and Engineering and the attempt of David Hestenes and others to design a Geometric Algebra that integrated those redundant formalisms with their overlapping content and conflicting notations. e.g. symbol used for multiplication on paper or on computer and use of same symbol for something else such as hodge star operator, cross product or commutator. 
+
+STEMCstudio might be used as a core of a workspace but the interface needs to be a lot more USER friendly to physics students and drag 'n' drop interactive for both students and professionals. 
+
+
+See Hestenes 1995 paper on MODELING SOFTWARE for learning and doing physics, the interactivity of Brilliant.org, Labster, PhET interactive simulations (https://phet.colorado.edu/), GeoGebra, desmos, CoCalc, Wolfram Alpha, Wolfram Computational Notebooks, Jupyter Notebooks, Google NotebookLM, Mathematica, Maple, Rebound (https://rebound.readthedocs.io/en/latest/), Reboundx (https://reboundx.readthedocs.io/en/latest/) etc. 
+
+NOTE: The Workstation search engine will have a GUI rather than a text-based search field as in Google Search or an OpenAI chatGPT text input chat field. Such a HUD GUI makes the possible lines of a search inquiry about a subject and the content of videos more transparent and accessible for novices. It is similar to using a subject directory tree or an Infranodus knowledge graph.
 
 ## A.I. assisted Conversational Reading System and search agents
 
