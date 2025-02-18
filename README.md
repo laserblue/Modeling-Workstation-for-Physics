@@ -13,7 +13,11 @@ Source: https://link.springer.com/chapter/10.1007/978-94-009-4802-0_9
 
 Chapter 9: USD $ 29.95 (Price excludes VAT (Canada)
 
+Source: https://davidhestenes.net/geocalc/html/NFCM.html
+
 Source: Hestenes, D. (1987). Foundations of Mechanics. In: New Foundations for Classical Mechanics. Fundamental Theories of Physics, vol 15. Springer, Dordrecht. https://doi.org/10.1007/978-94-009-4802-0_9
+
+Source: https://davidhestenes.net/geocalc/pdf/Foundations.pdf
 
 Source: https://books.google.ca/books?id=-mzyCAAAQBAJ&printsec=frontcover#v=onepage&q&f=false
 
@@ -90,6 +94,7 @@ by David Hestenes
 
 Am. J. Phys. 71, 104–121 (2003)
 
+Source: https://davidhestenes.net/geocalc/html/Oersted-ReformingTheLanguage.html
 
 Source: https://pubs.aip.org/aapt/ajp/article-abstract/71/2/104/1055914/Oersted-Medal-Lecture-2002-Reforming-the?redirectedFrom=fulltext
 
