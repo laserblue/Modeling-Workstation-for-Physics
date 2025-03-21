@@ -106,5 +106,6 @@ The Workstation Search Engine GUI interface will include a SCAPES collaborative 
 
 ## Graphical/Visual web Browser Search Interface
     The words "graphical" and "visual" are being used here to make it clear that the search engine user interface is not based on a text input search field or a text chat input field as with use of openAI chatGPT. Yahoos deprecated search directory trees or Google knowledge graphs and Infranodus word network graphs and mind maps that make possible lines of inquiry visible are what is desired for the GUI.
+  HyperPhysics and HyperMarh are good visual examples but somewhat dated in terms of interactivity and use of Hestenes Geometric Algebra.
 
 
